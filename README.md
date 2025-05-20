@@ -1,12 +1,12 @@
 # MIMIC-III Heart Failure Analysis using SQL
 
-## 📊 Project Overview
+## Project Overview
 
 This project explores clinical and demographic patterns of **heart failure patients** in the **MIMIC-III (Medical Information Mart for Intensive Care)** database using **MySQL**. The goal is to extract meaningful insights to support healthcare research and decision-making.
 
 ---
 
-## 🧠 Key Insights Extracted
+## Key Insights Extracted
 
 ### 1. **Patient Demographics**
 - Count of heart failure patients (ICD9 codes: 428.x).
@@ -36,7 +36,7 @@ This project explores clinical and demographic patterns of **heart failure patie
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 - Academic research on heart failure trends.
 - Benchmarking ICU practices.
@@ -45,7 +45,7 @@ This project explores clinical and demographic patterns of **heart failure patie
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Dr. Akshaya Tharankini A**  
 Healthcare Data & AI Specialist | SQL | Python | Power BI  
