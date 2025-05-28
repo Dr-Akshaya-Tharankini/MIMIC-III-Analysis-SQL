@@ -18,7 +18,7 @@ This project explores clinical and demographic patterns of **heart failure patie
 - Average number of ICU stays per patient.
 - Distribution by age and gender.
 
-### 3. **Diagnoses & Comorbidities**
+### 3. **Diagnoses & Comorbidities** 
 - Common co-occurring conditions (e.g., diabetes, hypertension).
 - Most frequent diagnosis codes.
 
